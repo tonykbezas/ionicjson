@@ -38,55 +38,5 @@
       "last": "Olsen"
     },
     "rename": "Jeanne Rivers"
-  },
-  {
-    "_id": "5ef41b7898f82b644a772d95",
-    "picture": "http://placehold.it/32x32",
-    "age": 36,
-    "name": {
-      "first": "Hooper",
-      "last": "Hines"
-    },
-    "rename": "Dolores Wilkerson"
-  },
-  {
-    "_id": "5ef41b7864a0fcfd27405c9f",
-    "picture": "http://placehold.it/32x32",
-    "age": 21,
-    "name": {
-      "first": "Rios",
-      "last": "Mayer"
-    },
-    "rename": "Margery Gaines"
-  },
-  {
-    "_id": "5ef41b789a9c24241ebc0b3c",
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "name": {
-      "first": "Chaney",
-      "last": "Fowler"
-    },
-    "rename": "Melisa Guzman"
-  },
-  {
-    "_id": "5ef41b78f99d97e706dbc26e",
-    "picture": "http://placehold.it/32x32",
-    "age": 23,
-    "name": {
-      "first": "Young",
-      "last": "Mcfarland"
-    },
-    "rename": "Gilbert Reese"
-  },
-  {
-    "_id": "5ef41b78e9c9dd866ada68ff",
-    "picture": "http://placehold.it/32x32",
-    "age": 27,
-    "name": {
-      "first": "Goodwin",
-      "last": "Alford"
-    },
-    "rename": "Bettye Schneider"
   }
 ]
